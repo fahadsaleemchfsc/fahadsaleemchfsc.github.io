@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fahadsaleemchfsc.github.io/sitemap.xml
